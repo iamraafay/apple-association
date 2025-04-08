@@ -1,0 +1,17 @@
+{
+  "appclips": {
+    "apps": ["MSSNU2GR96.com.raafay.ReactivApp.Clip"]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MSSNU2GR96.com.raafay.ReactivApp.Clip",
+        "paths": [
+          "/collections/all",
+          "/product/*"
+        ]
+      }
+    ]
+  }
+}
